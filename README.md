@@ -11,3 +11,4 @@
 
 ## Reference
 https://arxiv.org/pdf/1704.03155v2.pdf
+https://github.com/parksunwoo/ocr_kor
